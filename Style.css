@@ -2,6 +2,10 @@
     margin: 0em;
 }
 
+.texto{
+    font-family: 'Genos', sans-serif;
+    font-size: 11px;
+}
 .cover {
     border: blue 4px solid;
     padding-top: 5px;
