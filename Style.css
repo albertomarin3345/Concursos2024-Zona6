@@ -4,7 +4,8 @@
 
 .texto{
     font-family: 'Genos', sans-serif;
-    font-size: 11px;
+    font-size: 15px;
+    font-weight: bold;
 }
 .cover {
     border: blue 4px solid;
